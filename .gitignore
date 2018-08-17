@@ -1,3 +1,6 @@
 .idea
 target
 node_modules
+tutorial-web/src/main/web/dist
+tutorial-web/src/main/web/node
+tutorial-web/src/main/web/package-lock.json
